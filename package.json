@@ -11,6 +11,8 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "dotenv": "^18.0.7",
+    "jose": "4.15.9",
     "socket.io": "^4.8.3"
   }
 }
